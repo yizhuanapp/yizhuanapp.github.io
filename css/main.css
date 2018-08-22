@@ -1849,7 +1849,7 @@ img:hover {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #8290c9;
+  background: #3d13d7;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -3102,7 +3102,8 @@ ul.breadcrumb li+li:last-child {
   }
 }
 @media (max-width: 767px) {
-  #header h1.site-subtitle {
+  .site-subtitle {
+    margin: 15px 10px 0;
     text-overflow: ellipsis;
     white-space: nowrap;
     overflow: hidden;
