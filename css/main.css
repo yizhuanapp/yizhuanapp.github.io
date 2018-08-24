@@ -1845,7 +1845,7 @@ img:hover {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #03ff73;
+  background: #c7f51f;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -3104,4 +3104,8 @@ ul.breadcrumb li+li:last-child {
     white-space: nowrap;
     overflow: hidden;
   }
+}
+img.fancybox-image {
+  background: #fff;
+  padding: 10px;
 }
