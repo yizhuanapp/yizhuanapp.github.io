@@ -1,10 +1,1 @@
-$(function() {
-  var defaults = {
-    helpers: {
-      overlay: {
-        locked: false
-      }
-    },
-  };
-  $('.fancybox').fancybox(defaults);
-})
+$(function(){$(".fancybox").fancybox({helpers:{overlay:{locked:!1}}})});
