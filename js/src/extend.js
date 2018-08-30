@@ -1,1 +1,1 @@
-$(function(){$(".fancybox").fancybox({helpers:{overlay:{locked:!1}}})});
+!function(e){"use strict";(window.jQuery||jQuery)(".fancybox").fancybox({helpers:{overlay:{locked:!1}}})}();
