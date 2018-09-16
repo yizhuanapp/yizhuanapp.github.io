@@ -11,6 +11,6 @@ Disallow: /fonts/
 Disallow: /vendors/
 Disallow: /fancybox/
 
-Sitemap: https://yizhuan.app/sitemap.xml
-Sitemap: https://yizhuan.app/baidusitemap.xml
+Sitemap: https://24ke.app/sitemap.xml
+Sitemap: https://24ke.app/baidusitemap.xml
 
